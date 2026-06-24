@@ -3,7 +3,7 @@
 A free, open-source SQL learning app that runs entirely in your browser.
 No install, no account, no server needed.
 
-🌐 **Live app:** https://yourusername.github.io/sqlcraft
+🌐 **Live app:** https://ektapriya996.github.io/sqlcraft
 
 ## Features
 - 21 lessons across Beginner, Intermediate and Advanced levels
